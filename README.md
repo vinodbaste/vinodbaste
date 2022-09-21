@@ -50,3 +50,10 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 [![Vinod Baste Medium](https://github-readme-medium.vercel.app/?username=vinod-baste&limit=3)](https://medium.com/@vinod-baste)
 
 [➡️ more blogs...](https://medium.com/@vinod-baste)
+
+---
+
+### 📈 GitHub Stats 
+
+[![VB's github stats](https://github-readme-stats.vercel.app/api?username=vinodbaste&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbaste&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
