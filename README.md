@@ -49,7 +49,6 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 ---
 
 ### ✍🏻 Medium Blogs
-
 [![Vinod Baste Medium](https://github-readme-medium.vercel.app/?username=vinod-baste&limit=3)](https://medium.com/@vinod-baste)
 
 [➡️ more blogs...](https://medium.com/@vinod-baste)
