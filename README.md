@@ -49,9 +49,16 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 ---
 
 ### ✍🏻 Medium Blogs
-[![Vinod Baste Medium](https://github-readme-medium.vercel.app/?username=vinod-baste&limit=3)](https://medium.com/@vinod-baste)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/1" alt="Recent Article 2"> 
 
 [➡️ more blogs...](https://medium.com/@vinod-baste)
+
+---
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinodbaste)](https://github.com/vinodbaste/github-profile-trophy)
 
 ---
 
@@ -62,9 +69,3 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinodbaste&border_radius=4.2)](https://git.io/streak-stats)
 
----
-
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinodbaste)](https://github.com/vinodbaste/github-profile-trophy)
-
----
