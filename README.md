@@ -59,3 +59,5 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 
 [![VB's github stats](https://github-readme-stats.vercel.app/api?username=vinodbaste&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbaste&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinodbaste&border_radius=4.2)](https://git.io/streak-stats)
