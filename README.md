@@ -62,4 +62,9 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinodbaste&border_radius=4.2)](https://git.io/streak-stats)
 
+---
+
+### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinodbaste)](https://github.com/vinodbaste/github-profile-trophy)
+
+---
