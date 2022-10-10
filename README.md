@@ -57,6 +57,11 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 
 ---
 
+### Support my work
+<a href="https://www.buymeacoffee.com/bastevinod" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+---
+
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinodbaste)](https://github.com/vinodbaste/github-profile-trophy)
 
