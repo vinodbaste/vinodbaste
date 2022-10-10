@@ -51,7 +51,7 @@ I'm Vinod Baste. I work as a software engineer during the day. At night, I switc
 ### ✍🏻 Medium Blogs
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/1" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinod-baste/1" alt="Recent Article 1"> 
 
 [➡️ more blogs...](https://medium.com/@vinod-baste)
 
