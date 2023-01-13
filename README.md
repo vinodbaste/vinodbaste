@@ -1,4 +1,4 @@
-I'm Vinod Baste. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
+I'm Vinod Baste. I work as a Full stack engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 ---
 
 ### ⚡️ A quick introduction
