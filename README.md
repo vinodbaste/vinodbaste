@@ -1,10 +1,10 @@
-I'm Vinod Baste. I work as a Full stack engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
+I'm Vinod Baste. I work as a Data Scientist during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 ---
 
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently working with at [Knowledge Lens](https://www.knowledgelens.com).
-- 🌱 I’m currently learning UI/UX Designing. 
+- 🌱 I’m currently learning Deep Learning. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm a bathroom singer, and gym lover. I also write pieces of poetry, blogs, and play football!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
