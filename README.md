@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=vinodbaste&base=2010)
+
 I'm Vinod Baste. I work as a Data Scientist during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 ---
 
