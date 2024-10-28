@@ -5,8 +5,8 @@ I'm Vinod Baste. I work as a Data Scientist during the day. At night, I switch i
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at [Knowledge Lens](https://www.knowledgelens.com).
-- 🌱 I’m currently learning Deep Learning. 
+- 🔭 I’m currently working with at [EY](https://www.ey.com/en_in).
+- 🌱 I’m currently learning GenAI. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm a bathroom singer, and gym lover. I also write pieces of poetry, blogs, and play football!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
